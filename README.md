@@ -1,3 +1,3 @@
 LSD
 ===
-This is a Proprty of ZNP Asscoiates. 
+This is a Property of ZNP Associates. 
